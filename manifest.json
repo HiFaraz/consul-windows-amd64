@@ -1,0 +1,12 @@
+{
+  "version": "1.0.6",
+  "description": "Consul for Windows 64-bit",
+  "homepage": "https://github.com/HiFaraz/consul-windows-amd64#readme",
+  "bugs": {
+    "url": "https://github.com/HiFaraz/consul-windows-amd64/issues"
+  },
+  "git": "https://github.com/HiFaraz/consul-windows-amd64",
+  "bin": {
+    "consul": "bin/consul.exe"
+  }
+}
